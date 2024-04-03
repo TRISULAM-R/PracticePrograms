@@ -1,0 +1,4 @@
+Sl No ,Currency,A/c Holder Name,A/c Number,Bank Code,Transfer Amount ,Reference (optional)
+1,IDR,test01,8760673566,014,10000,test idr1
+2,IDR,test02,8760673566,014,15000,test idr2
+3,IDR,Test03,8760673566,014,105000,test idr3
