@@ -19,5 +19,7 @@ public class SubClass extends SClass
 		int a = 30;
 		//this a = 10;
 		//changes in feature/new
+		
+		//main is updated
 	}
 }
